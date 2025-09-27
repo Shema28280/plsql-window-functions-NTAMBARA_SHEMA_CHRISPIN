@@ -183,7 +183,7 @@ Hey, we really need to increase the interest of the big spenders by offering the
 Also on the occasion that we have dips in winter sales, we can reduce or eliminate targeted campaigns, sweet offers or package deals to maintain our sales at the same level during the low months.  
 And we should crank up some custom marketing to the high frugality customers so they can be buying more frequently and evenly distributing the income among our crew of customers.
 
-# REFERENXES
+# REFERENCES
 
 1. Introduction to SQL W3Schools.com " https://youtu.be/zpnHsWOy0RY?si=OBESiLp91XCL5ply "
 
@@ -202,5 +202,6 @@ And we should crank up some custom marketing to the high frugality customers so 
 8. DBMS Full Course for Beginners " https://youtu.be/c5HAwKX-suM?si=pAp8PYDklRNWeheF "
 
 9. My sample dataset was academic in nature, informed by my real life experience in the retailing of broiler chicken.
+
 
 10. CUME_DIST analytic function in SQL Server. " https://youtu.be/Nhcgs0bNshE?si=XbFkHCP2GY7hgw0u "
