@@ -7,6 +7,7 @@
 * Student Name: NTAMBARA SHEMA CHRISPIN
 
 * Student_ID: 28280
+  
 
 PROBLEM DEFINITION
 
@@ -209,4 +210,5 @@ And we should crank up some custom marketing to the high frugality customers so 
 
 
 10. CUME_DIST analytic function in SQL Server. " https://youtu.be/Nhcgs0bNshE?si=XbFkHCP2GY7hgw0u "
+
 
