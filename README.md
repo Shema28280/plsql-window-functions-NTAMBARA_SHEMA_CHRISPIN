@@ -211,4 +211,9 @@ And we should crank up some custom marketing to the high frugality customers so 
 
 10. CUME_DIST analytic function in SQL Server. " https://youtu.be/Nhcgs0bNshE?si=XbFkHCP2GY7hgw0u "
 
+# ACADEMIC INTEGRITY
+
+All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
+
+
 
